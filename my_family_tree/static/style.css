@@ -1,0 +1,97 @@
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #ffffa6;
+        width: 48000px;
+    }
+
+    .generation {
+        display: flex;
+        justify-content: center;
+    }
+
+    section {
+        display: inline-table;
+        text-align: center;
+        color: #000000;
+        margin: auto;
+    }
+
+    .marriage {
+        width: 600px;
+        margin: 0 auto;
+        background: ghostwhite;
+        border: 1px solid black;
+        border-radius: 6px;
+    }
+
+    .husband {
+        display: inline-table;
+        width: 375px;
+        height: 81px;
+        background-color: #b4c7dc;
+        border: 1px solid black;
+        border-radius: 6px;
+    }
+
+    .wife {
+        display: inline-table;
+        width: 375px;
+        height: 81px;
+        background-color: #ffd7d7;
+        border: 1px solid black;
+        border-radius: 6px;
+    }
+
+    .generation:nth-child(2) section .couple .husband,
+    .generation:nth-child(2) section .couple .wife {
+        width: 750px;
+    }
+
+    .generation:nth-child(3) section .couple .husband,
+    .generation:nth-child(3) section .couple .wife {
+        width: 1500px;
+    }
+
+    .generation:nth-child(4) section .couple .husband,
+    .generation:nth-child(4) section .couple .wife {
+        width: 3000px;
+    }
+
+    .generation:nth-child(5) section .couple .husband,
+    .generation:nth-child(5) section .couple .wife {
+        width: 6000px;
+    }
+
+    .generation:nth-child(6) section .couple .husband,
+    .generation:nth-child(6) section .couple .wife {
+        width: 12000px;
+    }
+
+    .generation:nth-child(7) section .couple .husband,
+    .generation:nth-child(7) section .couple .wife {
+        width: 24000px;
+    }
+
+    section p:nth-child(1) {
+        padding: 6px 0px 2px;
+        font: 16px arial;
+        font-weight: bold;
+    }
+
+    section p:nth-child(2) {
+        height: 21px;
+        font: 15px georgia;
+        padding: 2px 0px 2px;
+    }
+
+    section p:nth-child(3),
+    p:nth-child(4) {
+        height: 16px;
+        font: 12px arial;
+        padding: 2px 0px 0px;
+    }

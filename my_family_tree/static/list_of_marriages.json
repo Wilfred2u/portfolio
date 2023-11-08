@@ -1,0 +1,642 @@
+[
+    {
+        "id": 1,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 2,
+        "marriage_date": "1973",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 3,
+        "marriage_date": "28 oktober 1948",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 4,
+        "marriage_date": "19 mei 1944",
+        "marriage_place": "Vriezenveen"
+    },
+    {
+        "id": 5,
+        "marriage_date": "5 april 1907",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 6,
+        "marriage_date": "9 mei 1913",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 7,
+        "marriage_date": "26 november 1903",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 8,
+        "marriage_date": "19 november 1910",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 9,
+        "marriage_date": "28 december 1871",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 10,
+        "marriage_date": "15 september 1871",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 11,
+        "marriage_date": "12 augustus 1871",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 12,
+        "marriage_date": "13 juli 1876",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 13,
+        "marriage_date": "14 april 1877",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 14,
+        "marriage_date": "22 augustus 1874",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 15,
+        "marriage_date": "11 februari 1876",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 16,
+        "marriage_date": "20 februari 1880",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 17,
+        "marriage_date": "18 juli 1840",
+        "marriage_place": "Heerde"
+    },
+    {
+        "id": 18,
+        "marriage_date": "4 februari 1837",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 19,
+        "marriage_date": "9 juli 1824",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 20,
+        "marriage_date": "8 november 1834",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 21,
+        "marriage_date": "22 juni 1821",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 22,
+        "marriage_date": "10 september 1831",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 23,
+        "marriage_date": "10 januari 1820",
+        "marriage_place": "Havelte"
+    },
+    {
+        "id": 24,
+        "marriage_date": "7 december 1825",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 25,
+        "marriage_date": "17 december 1852",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 26,
+        "marriage_date": "16 mei 1857",
+        "marriage_place": "Ambt Hardenberg"
+    },
+    {
+        "id": 27,
+        "marriage_date": "28 april 1849",
+        "marriage_place": "Smilde"
+    },
+    {
+        "id": 28,
+        "marriage_date": "16 april 1837",
+        "marriage_place": "De Wijk"
+    },
+    {
+        "id": 29,
+        "marriage_date": "19 oktober 1837",
+        "marriage_place": "Avereest"
+    },
+    {
+        "id": 30,
+        "marriage_date": "28 februari 1851",
+        "marriage_place": "Avereest"
+    },
+    {
+        "id": 31,
+        "marriage_date": "28 mei 1826",
+        "marriage_place": "Hoogeveen"
+    },
+    {
+        "id": 32,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 33,
+        "marriage_date": "13 februari 1812",
+        "marriage_place": "Vaassen"
+    },
+    {
+        "id": 34,
+        "marriage_date": "3 april 1803",
+        "marriage_place": "Wijhe"
+    },
+    {
+        "id": 35,
+        "marriage_date": "14 april 1799",
+        "marriage_place": "Laar (Koninkrijk Hannover)"
+    },
+    {
+        "id": 36,
+        "marriage_date": "12 april 1807",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 37,
+        "marriage_date": "25 mei 1792",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 38,
+        "marriage_date": "31 mei 1796",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 39,
+        "marriage_date": "25 mei 1797",
+        "marriage_place": "Gramsbergen"
+    },
+    {
+        "id": 40,
+        "marriage_date": "13 mei 1804",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 41,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 42,
+        "marriage_date": "4 november 1801",
+        "marriage_place": "Heemse"
+    },
+    {
+        "id": 43,
+        "marriage_date": "6 mei 1781",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 44,
+        "marriage_date": "24 januari 1793",
+        "marriage_place": "Laar (Graafschap Bentheim)"
+    },
+    {
+        "id": 45,
+        "marriage_date": "6 januari 1792",
+        "marriage_place": "Havelte"
+    },
+    {
+        "id": 46,
+        "marriage_date": "18 december 1791",
+        "marriage_place": "Steenwijk"
+    },
+    {
+        "id": 47,
+        "marriage_date": "22 mei 1781",
+        "marriage_place": "Laer of Gramsbergen"
+    },
+    {
+        "id": 48,
+        "marriage_date": "14 mei 1800",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 49,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 50,
+        "marriage_date": "8 mei 1828",
+        "marriage_place": "Heemse (Ambt Hardenberg)"
+    },
+    {
+        "id": 51,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 52,
+        "marriage_date": "23 september 1812",
+        "marriage_place": "Kleinringe (Ringe, Koninkrijk Hannover)"
+    },
+    {
+        "id": 53,
+        "marriage_date": "27 april 1821",
+        "marriage_place": "Smilde"
+    },
+    {
+        "id": 54,
+        "marriage_date": "4 september 1826",
+        "marriage_place": "Norg"
+    },
+    {
+        "id": 55,
+        "marriage_date": "1 april 1804",
+        "marriage_place": "Amsterdam"
+    },
+    {
+        "id": 56,
+        "marriage_date": "16 maart 1806",
+        "marriage_place": "Noordwijk"
+    },
+    {
+        "id": 57,
+        "marriage_date": "23 december 1804",
+        "marriage_place": "Vlaardingen"
+    },
+    {
+        "id": 58,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 59,
+        "marriage_date": "12 september 1823",
+        "marriage_place": "Doniawerstal"
+    },
+    {
+        "id": 60,
+        "marriage_date": "3 mei 1821",
+        "marriage_place": "Haskerland"
+    },
+    {
+        "id": 61,
+        "marriage_date": "30 april 1797",
+        "marriage_place": "Heemse"
+    },
+    {
+        "id": 62,
+        "marriage_date": "6 november 1791",
+        "marriage_place": "IJhorst-De Wijk"
+    },
+    {
+        "id": 63,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 64,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 65,
+        "marriage_date": "16 mei 1779",
+        "marriage_place": "Bathmen"
+    },
+    {
+        "id": 66,
+        "marriage_date": "2 mei 1784",
+        "marriage_place": "Oene (Epe)"
+    },
+    {
+        "id": 67,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 68,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 69,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 70,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 71,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 72,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 73,
+        "marriage_date": "17 april 1757",
+        "marriage_place": "Hardenberg"
+    },
+    {
+        "id": 74,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 75,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 76,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 77,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 78,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 79,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 80,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 81,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 82,
+        "marriage_date": "15 mei 1768",
+        "marriage_place": "Ommen"
+    },
+    {
+        "id": 83,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 84,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 85,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 86,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 87,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 88,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 89,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 90,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 91,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 92,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 93,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 94,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 95,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 96,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 97,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 98,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 99,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 100,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 101,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 102,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 103,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 104,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 105,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 106,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 107,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 108,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 109,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 110,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 111,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 112,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 113,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 114,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 115,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 116,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 117,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 118,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 119,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 120,
+        "marriage_date": "24 september 1785",
+        "marriage_place": "Havelte"
+    },
+    {
+        "id": 121,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 122,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 123,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 124,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 125,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 126,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 127,
+        "marriage_date": "",
+        "marriage_place": ""
+    },
+    {
+        "id": 128,
+        "marriage_date": "",
+        "marriage_place": ""
+    }
+]
