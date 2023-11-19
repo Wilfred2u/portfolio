@@ -9,4 +9,5 @@ I've set up a database with about 250 ancestors of mine in Aldfaer, a Dutch ance
 2. Pygame: Alien invastion
 
 # Alien invasion
-During the full-stack developer study, to better understand Python, I bought 'Python crash course, 3rd edition' from Eric Matthes. Beside the comprehensive theory, it also contains a few projects. One of them is to make a simple game: Alien invasion, based on the Pygame-module. This is the actual game (so far still work in progress).
+During the full-stack developer study, to better understand Python, I bought 'Python crash course, 3rd edition' from Eric Matthes. Beside the comprehensive theory, it also contains a few projects. One of them is to make a simple game: Alien invasion, based on the Pygame-module. This is the actual game.
+I think the result is nice, but I would do some small changes to it. For example, starting the game by pressing a key, in stead of clicking the play-button or enhancing the background by putting some stars in it.
