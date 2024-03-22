@@ -13,7 +13,7 @@ const Props4 = () => {
     return (
         <>
             <section className="bgmediumgrey width80percent divhorizontalcentered mediumpaddingtop mediummpaddingbottom ">
-                <h4 className="smallmarginbottom" id="componenten">componenten</h4>
+                <h4 className="smallmarginbottom" id="props_samengevoegd">props - samengevoegd</h4>
                 <hr className="width100percent smallmarginbottom" />
                 <p className="largemarginbottom">
                     In het volgende voorbeeld zijn alle props samengevoegd tot één prop: element.

@@ -6,7 +6,7 @@ const Props2 = () => {
     return (
         <>
             <section className="bgmediumgrey width80percent divhorizontalcentered mediumpaddingtop mediummpaddingbottom ">
-                <h4 className="smallmarginbottom" id="componenten">componenten</h4>
+                <h4 className="smallmarginbottom" id="props_vaste_waarde">props - vaste waarde</h4>
                 <hr className="width100percent smallmarginbottom" />
                 <p className="largemarginbottom">
                     In het volgende voorbeeld bevat de Card-component props. Ze worden gedefinieerd als attributen in het JSX-element en

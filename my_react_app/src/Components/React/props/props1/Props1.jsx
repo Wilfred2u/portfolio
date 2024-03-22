@@ -5,7 +5,7 @@ import Card from './Card';
 const Props1 = () => {
     return (
         <><section className="bgmediumgrey width80percent divhorizontalcentered mediumpaddingtop mediummpaddingbottom ">
-            <h4 className="smallmarginbottom" id="componenten">componenten</h4>
+            <h4 className="smallmarginbottom" id="props_geen_props">props - geen props</h4>
             <hr className="width100percent smallmarginbottom" />
             <p className="largemarginbottom">
                 In onderstaand voorbeeld zitten nog geen props; alle code is hard-gecodeerd.
