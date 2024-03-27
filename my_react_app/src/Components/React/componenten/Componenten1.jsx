@@ -21,11 +21,12 @@ const Componenten1 = () => {
             <section className="bgmediumgrey width80percent divhorizontalcentered mediumpaddingtop mediummpaddingbottom ">
                 <h4 className="smallmarginbottom" id="componenten_geen_componenten">componenten - geen componenten</h4>
                 <hr className="width100percent smallmarginbottom" />
-                <p className="largemarginbottom">
+                <p>
                     Dit bestand bevat nog geen componenten; het bestaat uit &eacute;&eacute;n <span
                         className="code grey">&lt;<span className="darkblue">h1</span>&gt;</span>-element,
                     welke direct in de <span className="code lightyellow">render<span className="yellow">&#0040;&#0041;</span></span>-methode wordt gezet.
                 </p>
+                <p className="adjustmentblock">Verander<br />de waarde!</p>
                 <p className="smallmarginbottom">Het JSX-bestand:</p>
                 <div className="codeblock width100percent bgdarkgrey largemarginbottom roundradii">
                     <p className="code">

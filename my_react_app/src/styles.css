@@ -272,6 +272,10 @@ hr {
     gap: 12px;
 }
 
+.textrightaligned {
+    text-align: right;
+}
+
 .texthorizontalcentered2 {
     text-align: center;
 }
@@ -282,6 +286,10 @@ hr {
 
 .textverticaldownaligned {
     align-items: flex-end;
+}
+
+.rotated {
+    transform: rotate(10deg);
 }
 
 .lineheight80percent {
@@ -380,6 +388,20 @@ hr {
 .codeblock {
     padding: 8px 16px 16px;
     border: 2px solid #949494;
+}
+
+.adjustmentblock {
+    margin-left: auto;
+    margin-right: -25px;
+    margin-bottom: -60px;
+    padding: 15px;
+    width: min-content;
+    border: 2px solid #949494;
+    border-radius: 50%;
+    background-color: darkred;
+    font: 0.875em Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    transform: rotate(18deg);
 }
 
 .dropdownbutton {

@@ -1,11 +1,25 @@
 const Home = () => {
+
+    // Calculate my age
+    const berekenLeeftijd = (geboortedatum) => {
+        const vandaag = new Date();
+        const geboorteDatum = new Date(geboortedatum);
+        let leeftijd = vandaag.getFullYear() - geboorteDatum.getFullYear();
+        const maand = vandaag.getMonth() - geboorteDatum.getMonth();
+        if (maand < 0 || (maand === 0 && vandaag.getDate() < geboorteDatum.getDate())) {
+            leeftijd--;
+        }
+        return leeftijd;
+    }
+
     return (
         <>
             <section>
                 <h1 className="largemarginbottom">Welkom</h1>
                 <p className="largemarginbottom">
-                    Welkom. Mijn naam is Wilfred Grootoonk en ik heb kortgeleden de opleiding Full Stack Developer
-                    succesvol afgemaakt. Mede om mijn kennis en kunde up-to-date te houden,
+                    Welkom. Mijn naam is Wilfred Grootoonk, {berekenLeeftijd("1980-03-16")} jaar
+                    en ik heb kortgeleden de opleiding Full Stack Developer succesvol afgemaakt.
+                    Mede om mijn kennis en kunde up-to-date te houden,
                     heb ik het idee opgevat om een website, gemaakt in React, op te zetten.<br />
                     Is de website af? Nee, het is werk in uitvoering...
                 </p>
@@ -24,6 +38,7 @@ const Home = () => {
                     &eacute;&eacute;n en dezelfde pagina.<br />
                     In sommige gevallen kan de input worden aangepast, om zo te zien hoe daarna de output verandert.
                     Dit heb ik aangegeven bij de uitleg en in de code.
+                    Klik erop, voer een andere waarde in en kijk hoe de output zich aanpast.
                 </p>
                 <p>
                     En, o ja, ik meen deze website in het Nederlands te moeten maken,

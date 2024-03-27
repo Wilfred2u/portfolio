@@ -47,6 +47,8 @@ const Componenten2 = () => {
                         <span className="purple">export default</span> <span className="lightyellow">Greeting</span>;
                     </p>
                 </div>
+
+                <p className="adjustmentblock">Verander<br />de waarde!</p>
                 <p className="smallmarginbottom">App.jsx:</p>
                 <div className="codeblock width100percent bgdarkgrey largemarginbottom roundradii">
                     <p className="code">

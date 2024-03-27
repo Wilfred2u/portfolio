@@ -55,10 +55,7 @@ const Functies = () => {
                     door middel van een muisklik of wordt aangeroepen vanuit de code. De <span
                         className="code purple">&#0040;&#0041;</span>-operator roept de functie aan.
                 </p>
-                <p className="largemarginbottom">
-                    De waarde van het argument kan worden veranderd.
-                    Klik erop, voer een andere waarde in en kijk hoe de output zich aanpast.
-                </p>
+                <p className="adjustmentblock">Verander<br /> de waarde!</p>
                 <div className="codeblock bgdarkgrey nobottomborder roundtopradii">
                     <p className="code"><span className="darkblue">function</span> <span
                         className="lightyellow">naarCelsius</span><span className="yellow">&#0040;</span><span
@@ -101,6 +98,7 @@ const Functies = () => {
                 <p className="largemarginbottom">
                     De uitkomst van een functie kan als variabele worden gebruikt in allerlei toewijzingen en berekeningen.
                 </p>
+                <p className="adjustmentblock">Verander<br /> de waarde!</p>
                 <div className="codeblock bgdarkgrey nobottomborder roundtopradii">
                     <form className="code">
                         <span className="lightblue">console</span>.<span className="lightyellow">log</span><span
@@ -117,9 +115,11 @@ const Functies = () => {
                         />
                         <span className="purple">&#0041;</span> + <span
                             className="orange">" graden Celsius."</span><span
-                                className="yellow">&#0041;</span>; <span
-                                    className="green">&#0047;&#0047; Dit argument kun je veranderen!</span>
+                                className="yellow">&#0041;</span>;
                     </form>
+                    <p className="code">
+                        <span className="green">&#0047;&#0047; Dit argument kun je veranderen!</span>
+                    </p>
                 </div>
                 <div className="codeblock bgdarkgrey roundbottomradii">
                     <p className="code smallmarginbottom">Output:</p>

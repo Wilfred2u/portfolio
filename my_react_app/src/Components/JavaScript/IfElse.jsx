@@ -37,15 +37,13 @@ const IfElse = () => {
             <section className="bgmediumgrey width80percent divhorizontalcentered mediumpaddingtop mediummpaddingbottom ">
                 <h4 className="bold smallmarginbottom" id="if,%20else,%20else%20if">if, else, else if</h4>
                 <hr className="smallmarginbottom" />
-                <p className="noline">
+                <p>
                     Als de input moet voldoen aan een bepaalde voorwaarde, wordt een <span className="code purple">
                         if</span>-instructie gebruikt.<br />Wordt aan de voorwaarde voldaan &#0040;is de voorwaarde <span
                             className="code darkblue">true</span>&#0041;, dan wordt het <span className="code purple">
                         if</span>-block uitgevoerd, anders wordt er geen actie uitgevoerd.
                 </p>
-                <p className="largemarginbottom">De input kan worden veranderd. Klik erop, voer een andere waarde in
-                    en kijk hoe de output zich aanpast.
-                </p>
+                <p className="adjustmentblock">Verander<br /> de waarde!</p>
 
                 <div className="codeblock bgdarkgrey nobottomborder roundtopradii">
                     <form className="code noline">
@@ -79,12 +77,13 @@ const IfElse = () => {
                     <p className="code smallmarginbottom">Output:</p>
                     <p className="code green">{outputIfNumber}</p>
                 </div>
-                <p className="largemarginbottom">
+                <p>
                     Moet er ook een actie worden uitgevoerd wanneer er niet aan de voorwaarde wordt
                     voldaan, dan wordt een <span className="code purple">if</span>-<span
                         className="code purple">else</span>-instructie
                     gebruikt.
                 </p>
+                <p className="adjustmentblock">Verander<br /> de waarde!</p>
                 <div className="codeblock bgdarkgrey nobottomborder roundtopradii">
                     <form className="code noline">
                         <span className="darkblue">let</span> <span className="lightblue">getal</span> =
@@ -128,10 +127,11 @@ const IfElse = () => {
                     <p className="code smallmarginbottom">Output:</p>
                     <p className="code green">{outputIfElseNumber}</p>
                 </div>
-                <p className="largemarginbottom">
+                <p>
                     Indien er niet aan de eerste voorwaarde wordt voldaan, kan de input worden getoetst aan een andere
                     voorwaarde. In dat geval wordt een <span className="code purple">else if</span>-instructie gebruikt.
                 </p>
+                <p className="adjustmentblock">Verander<br />de waarde!</p>
                 <div className="codeblock bgdarkgrey nobottomborder roundtopradii">
                     <form className="code noline">
                         <span className="darkblue">let</span> <span className="lightblue">getal</span> =

@@ -33,11 +33,12 @@ const Componenten2 = () => {
                         </ol>
                     </li>
                 </ol>
-                <p className="largemarginbottom">In dit voorbeeld is het <span className="code grey">&lt;<span
+                <p>In dit voorbeeld is het <span className="code grey">&lt;<span
                     className="darkblue">h1</span>&gt;</span>-element de component en wordt deze aangeroepen in de <span
                         className="code lightyellow">render<span className="yellow">&#0040;&#0041;</span></span>-methode.
                 </p>
 
+                <p className="adjustmentblock">Verander<br />de waarde!</p>
                 <p className="smallmarginbottom">Het JSX-bestand:</p>
                 <div className="codeblock width100percent bgdarkgrey largemarginbottom roundradii">
                     <p className="code">
